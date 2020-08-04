@@ -7,4 +7,5 @@ while i <= array.length
     bnum=array[i]
   end
 end
+return bnum
 end
